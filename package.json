@@ -1,0 +1,13 @@
+{
+  "name": "travelville",
+  "version": "0.3.21",
+  "description": "first theme using the material-css framework",
+  "main": "app.js",
+  "repository": "https://github.com/darrell-parkhouse5151/travelville.git",
+  "author": "darrell-parkhouse5151 <lazycoder5151@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "material-css": "^0.7.0"
+  }
+}
