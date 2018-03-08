@@ -22,3 +22,11 @@
 .section-contact h5 {
     margin-bottom: 30px;
 }
+
+.section-follow a:hover {
+    color: blue;
+}
+
+.section-gallery h4 {
+    margin-bottom: 30px;
+}
